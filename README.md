@@ -41,7 +41,9 @@ The result comparing to the original model published for this dataset is availab
 |[demoversion/bert-fa-base-uncased-haddad-wikinli](https://huggingface.co/demoversion/bert-fa-base-uncased-haddad-wikinli)|**78.62**|**79.74**|**77.04**|**78.56**|
 
 # Notebooks
-Notebooks used for training and evaluating is available bellow.
+Notebooks used for training and evaluation are available below.
+
+
 |            	| Notebook                                                                                                                                                                                    	|
 |-----------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Training       	| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemoVersion/persian-nli-trainer/blob/main/notebooks/training.ipynb)       	|
