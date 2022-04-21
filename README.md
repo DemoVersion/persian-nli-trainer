@@ -32,7 +32,7 @@ The result of this code snippet is:
 Yep, the right label (highest score) without training.
 # Results
 
-The result comparing to the orginal model published for this dataset is available in the table bellow.
+The result comparing to the original model published for this dataset is available in the table bellow.
 
 
 |Model|dev_accuracy| dev_f1|test_accuracy|test_f1|
