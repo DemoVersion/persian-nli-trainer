@@ -5,7 +5,7 @@ This repository is created with the aim to provide better models for NLI in pers
 
 # Dataset
 
-The dataset used for training is Wiki D/Similar dataset (wiki-d-similar.zip), obtained from [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers) library.
+The dataset used for training is Wiki D/Similar dataset (wiki-d-similar.zip), obtained from [Sentence Transformers](https://github.com/m3hrdadfi/sentence-transformers) repository.
 
 # Model
 
