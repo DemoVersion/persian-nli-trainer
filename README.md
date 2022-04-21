@@ -36,7 +36,7 @@ The result comparing to the orginal model published for this dataset is availabl
 
 
 |Model|dev_accuracy| dev_f1|test_accuracy|test_f1|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |[m3hrdadfi/bert-fa-base-uncased-wikinli](https://huggingface.co/m3hrdadfi/bert-fa-base-uncased-wikinli)|77.88|77.57|76.64|75.99|
 |[demoversion/bert-fa-base-uncased-haddad-wikinli](https://huggingface.co/demoversion/bert-fa-base-uncased-haddad-wikinli)|**78.62**|**79.74**|**77.04**|**78.56**|
 
